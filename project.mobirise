@@ -62,8 +62,8 @@
             "video": {
               "active": true,
               "src": "https://www.youtube.com/embed/hmVwQjG_jNw",
-              "aspectratio": "16:9",
-              "autoplay": false,
+              "aspectratio": "4:3",
+              "autoplay": "on",
               "loop": false
             },
             "iconFont": {
