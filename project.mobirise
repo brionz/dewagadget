@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "DewaGadget",
-    "currentPage": "kontak.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -41,7 +41,7 @@
             "collapsed": true,
             "logo": true,
             "showBrand": true,
-            "showButtons": false
+            "showButtons": true
           },
           "logo": {
             "image": {
@@ -59,9 +59,9 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Dewa Gadget</a>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-black\" data-app-selector=\".nav-link\" href=\"https://www.kaskus.co.id/profile/viewallclassified/5576437\" target=\"_blank\">Kaskus</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-black\" data-app-selector=\".nav-link\" href=\"kontak.html\">Kontak</a></li>",
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DEWAGADGET</a>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-black-outline btn-black\" data-app-selector=\".nav-item .btn\" href=\"daftar-harga-hp-bm-dan-replika.html\" target=\"_blank\">HARGA</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-black\" data-app-selector=\".nav-link\" href=\"https://www.kaskus.co.id/profile/viewallclassified/5576437\" target=\"_blank\">KASKUS</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-black\" data-app-selector=\".nav-link\" href=\"https://www.kaskus.co.id/profile/viewallclassified/5576437\" target=\"_blank\">KONTAK</a></li>",
           "_styles": {
             ".navbar-toggler": {
               "color": "#000"
@@ -78,7 +78,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/iphone-1067988-1280-2000x1500-35.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/jual-replika-iphone-6-dan-iphone-6-supercopy-os-android-5576437-1422389735-2000x1500-48.jpg",
             "bgColor": "#fff8e0",
             "bgColorRadio": false,
             "bgVideo": {
@@ -86,7 +86,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
+            "overlayOpacity": "0.8",
             "overlayColor": "#e6e0dc",
             "contentAlign": "center",
             "showTitle": true,
@@ -99,7 +99,10 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"daftar-harga-hp-bm-dan-replika.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DAFTAR HARGA TERBARU</a>        ",
           "_styles": {
             "H1": {
-              "color": "#ff0700"
+              "color": "#000000"
+            },
+            "P": {
+              "color": "#000000"
             }
           }
         }
@@ -287,7 +290,7 @@
             "collapsed": true,
             "logo": true,
             "showBrand": true,
-            "showButtons": false
+            "showButtons": true
           },
           "logo": {
             "image": {
@@ -305,9 +308,9 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Dewa Gadget</a>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-black\" data-app-selector=\".nav-link\" href=\"https://www.kaskus.co.id/profile/viewallclassified/5576437\" target=\"_blank\">Kaskus</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-black\" data-app-selector=\".nav-link\" href=\"kontak.html\">Kontak</a></li>"
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DEWAGADGET</a>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-black-outline btn-black\" data-app-selector=\".nav-item .btn\" href=\"daftar-harga-hp-bm-dan-replika.html\" target=\"_blank\">HARGA</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-black\" data-app-selector=\".nav-link\" href=\"https://www.kaskus.co.id/profile/viewallclassified/5576437\" target=\"_blank\">KASKUS</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-black\" data-app-selector=\".nav-link\" href=\"https://www.kaskus.co.id/profile/viewallclassified/5576437\" target=\"_blank\">KONTAK</a></li>"
         }
       ]
     }

@@ -2,7 +2,10 @@
   color: #000;
 }
 #header1-1 H1 {
-  color: #ff0700;
+  color: #000000;
+}
+#header1-1 P {
+  color: #000000;
 }
 #menu-4 .navbar-toggler {
   color: #000;
