@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "DewaGadget",
-    "currentPage": "index.html",
+    "currentPage": "kontak.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -12,7 +12,7 @@
     "google-analytics": "",
     "cookiesAlert": "",
     "versionFirst": "3.10.3",
-    "uniqCompNum": 4,
+    "uniqCompNum": 8,
     "versionPublish": "3.10.3"
   },
   "pages": {
@@ -61,7 +61,7 @@
           },
           "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Dewa Gadget</a>",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-black\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-black\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-black\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Contact</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-black\" data-app-selector=\".nav-link\" href=\"https://www.kaskus.co.id/profile/viewallclassified/5576437\" target=\"_blank\">Kaskus</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-black\" data-app-selector=\".nav-link\" href=\"kontak.html\">Kontak</a></li>",
           "_styles": {
             ".navbar-toggler": {
               "color": "#000"
@@ -102,6 +102,212 @@
               "color": "#ff0700"
             }
           }
+        }
+      ]
+    },
+    "kontak.html": {
+      "settings": {
+        "title": "kontak",
+        "meta_descr": "kontak dewa-gadget.com"
+      },
+      "components": [
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-5",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#37383e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "text1": "<strong>Address</strong><br>Komp. IPWL Putri Cisirri, Ciomas, Panjalu, Ciamis, Jawa Barat.<br><br>\n<strong>Contacts</strong><br>\nEmail: dewagadget@gmail.com<br>\nCall/WA: +62 823 1922 8666<br>\nID Kaskus: dewagadget",
+          "text2": "<strong>Links</strong><ul><li><a href=\"https://www.kaskus.co.id/profile/viewallclassified/5576437\" target=\"_blank\">Lapak Kaskus Dewa Gadget</a><a href=\"https://www.kaskus.co.id/profile/viewallclassified/5576437\" target=\"_blank\"></a><a href=\"https://mobirise.com/\"></a></li><li><a href=\"https://www.dewa-gadget.com/daftar-harga-hp-bm-dan-replika.html\" target=\"_blank\">Update Harga Terbaru</a><a href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><li><a href=\"https://fb.com/dewagadgetkaskus\">Facebook</a><a href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "okabrionz@gmail.com",
+            "alerts": {
+              "success": "Terima kasih telah mengisi formulir."
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Nama*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Pesan"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">KIRIM</a>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-7",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": false,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/feature-bootstrap.png",
+              "class": "card-img-top",
+              "width": 600
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "linkInNewWindow": false,
+              "name": "like",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0,
+              "active": true
+            }
+          },
+          "title1": "Terpercaya",
+          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "media2": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/feature-responsive.png",
+              "class": "card-img-top",
+              "width": 600
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "linkInNewWindow": false,
+              "name": "lock",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0,
+              "active": true
+            }
+          },
+          "title2": "Aman",
+          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/feature-google-fonts.png",
+              "class": "card-img-top",
+              "width": 600
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "linkInNewWindow": false,
+              "name": "delivery",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0,
+              "active": true
+            }
+          },
+          "title3": "Pasti Sampai",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/feature-websites.png",
+              "class": "card-img-top",
+              "width": 600
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "linkInNewWindow": false,
+              "name": "cash",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0,
+              "active": true
+            }
+          },
+          "title4": "Bergaransi",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            }
+          },
+          "_anchor": "menu-4",
+          "_params": {
+            "hamburgerColor": "#000",
+            "sticky": true,
+            "transparent": false,
+            "color": "#fff",
+            "collapsed": true,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/dewagadget-128x128-68.jpg",
+              "height": 128,
+              "alt": "Handphone BM",
+              "link": "index.html",
+              "title": "Dewa Gadget Black Market",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Dewa Gadget</a>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-black\" data-app-selector=\".nav-link\" href=\"https://www.kaskus.co.id/profile/viewallclassified/5576437\" target=\"_blank\">Kaskus</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-black\" data-app-selector=\".nav-link\" href=\"kontak.html\">Kontak</a></li>"
         }
       ]
     }
