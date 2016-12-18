@@ -12,7 +12,7 @@
     "google-analytics": "",
     "cookiesAlert": "",
     "versionFirst": "3.10.3",
-    "uniqCompNum": 8,
+    "uniqCompNum": 12,
     "versionPublish": "3.10.3"
   },
   "pages": {
@@ -26,6 +26,162 @@
         "html_before": ""
       },
       "components": [
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-a",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/photo-5.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/embed/hmVwQjG_jNw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "DEWAGADGET",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Penjual Handphone BM &amp; Replika BlackBerry, Samsung, Apple, Sony, Mi, Lenovo, Asus Terpercaya sejak 2009.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-9",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "file:///C:/Users/BRIONZ-LAPTOP/AppData/Local/Mobirise.com/Mobirise/projectData/photo-3.jpg",
+            "bgColor": "#ff0700",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": false,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "file:///C:/Users/BRIONZ-LAPTOP/AppData/Local/Mobirise.com/Mobirise/projectData/feature-bootstrap.png",
+              "class": "card-img-top",
+              "width": 600
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "linkInNewWindow": false,
+              "name": "like",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0,
+              "active": true
+            }
+          },
+          "title1": "Terpercaya",
+          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "media2": {
+            "image": {
+              "src": "file:///C:/Users/BRIONZ-LAPTOP/AppData/Local/Mobirise.com/Mobirise/projectData/feature-responsive.png",
+              "class": "card-img-top",
+              "width": 600
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "linkInNewWindow": false,
+              "name": "lock",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0,
+              "active": true
+            }
+          },
+          "title2": "Aman",
+          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "media3": {
+            "image": {
+              "src": "file:///C:/Users/BRIONZ-LAPTOP/AppData/Local/Mobirise.com/Mobirise/projectData/feature-google-fonts.png",
+              "class": "card-img-top",
+              "width": 600
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "linkInNewWindow": false,
+              "name": "delivery",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0,
+              "active": true
+            }
+          },
+          "title3": "Pasti Sampai",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "media4": {
+            "image": {
+              "src": "file:///C:/Users/BRIONZ-LAPTOP/AppData/Local/Mobirise.com/Mobirise/projectData/feature-websites.png",
+              "class": "card-img-top",
+              "width": 600
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "linkInNewWindow": false,
+              "name": "cash",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0,
+              "active": true
+            }
+          },
+          "title4": "Bergaransi",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>"
+        },
         {
           "alias": "purity/components",
           "_tags": [
@@ -60,8 +216,8 @@
             }
           },
           "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DEWAGADGET</a>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-black-outline btn-black\" data-app-selector=\".nav-item .btn\" href=\"daftar-harga-hp-bm-dan-replika.html\" target=\"_blank\">HARGA</a></li>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-black\" data-app-selector=\".nav-link\" href=\"https://www.kaskus.co.id/profile/viewallclassified/5576437\" target=\"_blank\">KASKUS</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-black\" data-app-selector=\".nav-link\" href=\"https://www.kaskus.co.id/profile/viewallclassified/5576437\" target=\"_blank\">KONTAK</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-black-outline btn-black\" data-app-selector=\".nav-item .btn\" href=\"index.html#header1-1\" target=\"_blank\">UPDATE HARGA</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-black\" data-app-selector=\".nav-link\" href=\"https://www.kaskus.co.id/profile/viewallclassified/5576437\" target=\"_blank\">KASKUS</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-black\" data-app-selector=\".nav-link\" href=\"index.html#contacts3-5\" target=\"_blank\">KONTAK</a></li>",
           "_styles": {
             ".navbar-toggler": {
               "color": "#000"
@@ -105,15 +261,28 @@
               "color": "#000000"
             }
           }
-        }
-      ]
-    },
-    "kontak.html": {
-      "settings": {
-        "title": "kontak",
-        "meta_descr": "kontak dewa-gadget.com"
-      },
-      "components": [
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-b",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#26272c",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 <a href=\"https://www.dewa-gadget.com\">Dewa Gadget</a> |&nbsp;<a href=\"privacypolicy\" target=\"_blank\">Privacy Policy</a>"
+        },
         {
           "alias": "purity/components",
           "_tags": [
@@ -164,7 +333,15 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">KIRIM</a>"
-        },
+        }
+      ]
+    },
+    "kontak.html": {
+      "settings": {
+        "title": "kontak",
+        "meta_descr": "kontak dewa-gadget.com"
+      },
+      "components": [
         {
           "alias": "purity/components",
           "_tags": [
@@ -178,7 +355,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#0275d8",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -275,6 +452,57 @@
           "_tags": [
             "Theme"
           ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-5",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#37383e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "text1": "<strong>Address</strong><br>Komp. IPWL Putri Cisirri, Ciomas, Panjalu, Ciamis, Jawa Barat.<br><br>\n<strong>Contacts</strong><br>\nEmail: dewagadget@gmail.com<br>\nCall/WA: +62 823 1922 8666<br>\nID Kaskus: dewagadget",
+          "text2": "<strong>Links</strong><ul><li><a href=\"https://www.kaskus.co.id/profile/viewallclassified/5576437\" target=\"_blank\">Lapak Kaskus Dewa Gadget</a><a href=\"https://www.kaskus.co.id/profile/viewallclassified/5576437\" target=\"_blank\"></a><a href=\"https://mobirise.com/\"></a></li><li><a href=\"https://www.dewa-gadget.com/daftar-harga-hp-bm-dan-replika.html\" target=\"_blank\">Update Harga Terbaru</a><a href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><li><a href=\"https://fb.com/dewagadgetkaskus\">Facebook</a><a href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "okabrionz@gmail.com",
+            "alerts": {
+              "success": "Terima kasih telah mengisi formulir."
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Nama*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Pesan"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">KIRIM</a>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
           "_name": "menu",
           "_styles": {
             ".navbar-toggler": {
@@ -309,8 +537,8 @@
             }
           },
           "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DEWAGADGET</a>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-black-outline btn-black\" data-app-selector=\".nav-item .btn\" href=\"daftar-harga-hp-bm-dan-replika.html\" target=\"_blank\">HARGA</a></li>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-black\" data-app-selector=\".nav-link\" href=\"https://www.kaskus.co.id/profile/viewallclassified/5576437\" target=\"_blank\">KASKUS</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-black\" data-app-selector=\".nav-link\" href=\"https://www.kaskus.co.id/profile/viewallclassified/5576437\" target=\"_blank\">KONTAK</a></li>"
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-black-outline btn-black\" data-app-selector=\".nav-item .btn\" href=\"index.html#header1-1\" target=\"_blank\">UPDATE HARGA</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-black\" data-app-selector=\".nav-link\" href=\"https://www.kaskus.co.id/profile/viewallclassified/5576437\" target=\"_blank\">KASKUS</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-black\" data-app-selector=\".nav-link\" href=\"index.html#contacts3-5\" target=\"_blank\">KONTAK</a></li>"
         }
       ]
     }
