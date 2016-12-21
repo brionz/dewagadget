@@ -10,3 +10,18 @@
 #menu-4 .navbar-toggler {
   color: #000;
 }
+#menu-c .navbar-toggler {
+  color: #000;
+}
+#content1-g H1 {
+  color: #d9534f;
+}
+#content1-g H3 {
+  color: #d9534f;
+}
+#content1-g UL {
+  color: #313131;
+}
+#content1-g P {
+  text-align: left;
+}
